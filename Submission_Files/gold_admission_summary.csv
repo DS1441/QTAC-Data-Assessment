@@ -1,0 +1,12 @@
+applicant_id,applicant_name,applicant_state,accepted_course,institution_name,qualification_type,atar_score
+1004,Mohammed Al-Rashid,NSW,Bachelor of Engineering (Honours),The University of Queensland,Year 12,88.45
+1003,Emily Zhang,QLD,Bachelor of Engineering (Honours),The University of Queensland,Diploma,
+1011,Ava Thompson,QLD,Bachelor of Education (Primary),Griffith University,Certificate IV,
+1006,Liam Nguyen,QLD,Bachelor of Information Technology,University of Southern Queensland,Diploma,
+1012,William Lee,QLD,Bachelor of Arts,The University of Queensland,Year 12,82.3
+1009,Chloe Patel,VIC,Bachelor of Psychological Science,Griffith University,Bachelor,
+1013,Sophie Martin,QLD,Bachelor of Computer Science,The University of Queensland,Year 12,90.1
+1002,James O'Connor,NSW,Bachelor of Science,Queensland University of Technology,Year 12,78.9
+1015,Isabella Chen,QLD,Bachelor of Medicine,James Cook University,Year 12,95.0
+1005,Jessica Brown-Taylor,QLD,Bachelor of Nursing,Griffith University,Year 12,72.1
+1001,Sarah Mitchell,QLD,Bachelor of Computer Science,The University of Queensland,Year 12,85.3

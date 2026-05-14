@@ -1,0 +1,15 @@
+hub_course_key,load_date,course_name,institution_name,atar_cutoff,active_flag,record_source
+b'4\x91$\xe6\x99M:M\x175\xf9AW\xb2\xcf~[BPK',2026-05-13 17:01:10.150,Bachelor of Business,Queensland University of Technology,75.0,True,staging.courses
+b'<\x81\x16\xd0\xf5\xc7\x9b\xed\tz8\xac\xa4?=b\x1b)\x92w',2026-05-13 17:01:10.150,Bachelor of Engineering (Honours),The University of Queensland,89.5,True,staging.courses
+b']\x07\xb3t\xd3\x98\xd7\xaf\xd0\xf08\xdf\xe7\x9d\x03\x1f\x83\x04\x06\xa5',2026-05-13 17:01:10.150,Bachelor of Education (Primary),Griffith University,74.0,True,staging.courses
+b'f\x02(\x1a\xf9\xa7\xb3x\xcd=P\xc3F\x10\x9a\xc5??J\xee',2026-05-13 17:01:10.150,Bachelor of Data Science,Queensland University of Technology,82.0,True,staging.courses
+b'g\xd9x\x07Y\x10\x7f`\x95u\x82\xfc\x9b\xa3\x9b?\xfd.S\xd5',2026-05-13 17:01:10.150,Bachelor of Computer Science,The University of Queensland,84.0,True,staging.courses
+b'u\x92\x1b\xa7r\x95|]\\\x16\xa4\xf8>/\xa9\xfcnS1\x0e',2026-05-13 17:01:10.150,Bachelor of Psychological Science,Griffith University,75.5,True,staging.courses
+b'\x8au\x16;\x8f\xc8\xe2\xf1O\x7f\xccSO3\xa4\xca\xefJ\xed\x9c',2026-05-13 17:01:10.150,Bachelor of Science,Queensland University of Technology,70.0,True,staging.courses
+b'\x8b~\x00\x99HQ\x8d\xd6\xf7o\xcaI0\x91=8\x1f\x12(G',2026-05-13 17:01:10.150,Bachelor of Nursing,Griffith University,72.0,True,staging.courses
+b'\x8ezh\xbf!\x0c\xb0\xe3bu\x0fQ\x08\xa3\x1c\xcdt\t\x87\x19',2026-05-13 17:01:10.150,Bachelor of Medicine,James Cook University,99.0,True,staging.courses
+b'\x8e\xee\xca`\xc70\xd7\x94\xdc@\xab\x0eX^\xc6rC\xb9\x0c\xd4',2026-05-13 17:01:10.150,Bachelor of Agriculture,University of Southern Queensland,55.0,True,staging.courses
+"b""\x93!\xc0Y/'J_\xcdz\xd7+\xa6\x15\xf5\x7f\x91\xc4\xdc\x02""",2026-05-13 17:01:10.150,Bachelor of Engineering,CQUniversity,65.0,False,staging.courses
+b'\xd8\x07\xf8\xfd\x81vC\xf3\xc5\x10\xbc\xbbA\xbc\xb1\x8b\x1a\xc7K\x97',2026-05-13 17:01:10.150,Bachelor of Information Technology,University of Southern Queensland,60.0,True,staging.courses
+b'\xe9=\xcd\xb7x<\xd66\xc3P\xf4~\xd0\x0b\x902\x82[E\xe8',2026-05-13 17:01:10.150,Bachelor of Arts,The University of Queensland,71.0,True,staging.courses
+b'\xed\x16yUI\x04\x91\xb0r\x12\x94\x0fa\xb7\t_\x8e\x83\xf3\xcb',2026-05-13 17:01:10.150,Bachelor of Laws,Southern Cross University,,True,staging.courses
